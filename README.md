@@ -1,4 +1,4 @@
-
+# Real-time Face Mask Detection 
 Real-time Face Mask Detection is a computer vision application designed to identify and analyze whether individuals in a given video or camera feed are wearing face masks in real-time. This technology has gained significant attention, especially during the COVID-19 pandemic, as wearing face masks is a crucial measure to prevent the spread of infectious diseases.
 
 Here's a general description of the Real-time Face Mask Detection system:
